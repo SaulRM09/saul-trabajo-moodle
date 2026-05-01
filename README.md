@@ -20,4 +20,4 @@ En esta sección se encuentran los enlaces a los diferentes contenidos relaciona
 
 ### Enlaces:
 
-[Temas y creación de usuarios](https://github.com/SaulRM09/saul-trabajo-wordpress/blob/main/Temas%20y%20usuarios.md)
+[Configuración Inicial](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Configuraci%C3%B3n%20inicial.md)
