@@ -20,5 +20,5 @@ En esta sección se encuentran los enlaces a los diferentes contenidos relaciona
 
 ### Enlaces:
 
-[Configuración Inicial](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Configuraci%C3%B3n%20inicial.md)
-[Creación de cursos](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Creaci%C3%B3n%20de%20cursos.md)
+1. [Configuración Inicial](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Configuraci%C3%B3n%20inicial.md)
+2. [Creación de cursos](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Creaci%C3%B3n%20de%20cursos.md)
