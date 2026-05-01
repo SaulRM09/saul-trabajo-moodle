@@ -15,3 +15,7 @@ Además, si un estudiante entrega todas las tareas correctamente, le otorgamos u
 ---
 
 ## Enlaces al contenido
+
+En esta sección se encuentran los enlaces a los diferentes contenidos relacionados con la creación de este proyecto. Aquí podrás ver paso a paso cómo se han realizado tareas como la personalización del entorno y la creación de usuarios, elementos esenciales para configurar correctamente un Moodle funcional.
+
+### Enlaces:
