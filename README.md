@@ -26,4 +26,4 @@ En esta sección se encuentran los enlaces a los diferentes contenidos relaciona
 4. [Matriculación de usuarios a los cursos](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Matriculaci%C3%B3n%20de%20usuarios%20a%20los%20cursos..md)
 5. [Personalización del sitio](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Matriculaci%C3%B3n%20de%20usuarios%20a%20los%20cursos..md)
 6. [Creación de contenidos y actividades](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Creaci%C3%B3n%20de%20contenidos%20y%20actividades.md)
-7. [Calificacións y insignias](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Creaci%C3%B3n%20de%20cursos.md)
+7. [Calificacións y insignias](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Calificaci%C3%B3ns%20y%20insignias.md)
