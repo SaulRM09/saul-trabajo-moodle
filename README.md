@@ -25,3 +25,4 @@ En esta sección se encuentran los enlaces a los diferentes contenidos relaciona
 3. [Creación y gestión de usuarios](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Creaci%C3%B3n%20y%20gesti%C3%B3n%20de%20usuarios.md)
 4. [Matriculación de usuarios a los cursos](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Matriculaci%C3%B3n%20de%20usuarios%20a%20los%20cursos..md)
 5. [Personalización del sitio](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Matriculaci%C3%B3n%20de%20usuarios%20a%20los%20cursos..md)
+6. [Creación de contenidos y actividades](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Creaci%C3%B3n%20de%20cursos.md)
