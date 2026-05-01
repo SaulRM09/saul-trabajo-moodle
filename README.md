@@ -11,3 +11,7 @@ El objetivo es aprender a administrar un entorno Moodle real y comprender cómo 
 
 Mi Moodle se basa en dos cursos orientados a introducir al alumnado en el mundo de la inteligencia artificial. Cada curso incluye actividades, recursos y trabajos que deben entregarse para completar el aprendizaje.
 Además, si un estudiante entrega todas las tareas correctamente, le otorgamos una insignia como reconocimiento a su esfuerzo y progreso dentro del curso.
+
+---
+
+## Enlaces al contenido
