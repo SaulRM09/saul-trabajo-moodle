@@ -7,3 +7,7 @@ Este proyecto consiste en instalar Moodle en una máquina Linux y configurarlo c
 El objetivo es aprender a administrar un entorno Moodle real y comprender cómo se organiza y gestiona un aula online.
 
 ---
+## Mi moodle
+
+Mi Moodle se basa en dos cursos orientados a introducir al alumnado en el mundo de la inteligencia artificial. Cada curso incluye actividades, recursos y trabajos que deben entregarse para completar el aprendizaje.
+Además, si un estudiante entrega todas las tareas correctamente, le otorgamos una insignia como reconocimiento a su esfuerzo y progreso dentro del curso.
