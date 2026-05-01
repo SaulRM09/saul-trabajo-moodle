@@ -16,3 +16,7 @@
 
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/paquetes%20de%20idiomas1.png)
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/paquetes%20de%20idiomas2.png)
+
+---
+
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Reforzar%20seguridad%20de%20contrase%C3%B1a.png)
