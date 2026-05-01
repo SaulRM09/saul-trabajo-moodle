@@ -8,4 +8,6 @@
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Nombre2.png)
 
 ---
-
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Establecer%20la%20franja%20horaria.png)
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Establecer%20la%20franja%20horaria2.png)
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Establecer%20la%20franja%20horaria%202.png)
