@@ -17,3 +17,5 @@ o bien desde el menú de navegación:
 Cursos → Añadir curso
 
 Desde esta sección es posible definir el nombre del curso, el número de temas, la descripción y otros parámetros esenciales para su funcionamiento.
+
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Creaci%C3%B3n%20del%20curso.png)
