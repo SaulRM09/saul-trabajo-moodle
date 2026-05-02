@@ -18,8 +18,6 @@ Para realizar estos cambios, debemos acceder a:
 
 Administración del sitio → ajustes de la pàgina principal del sitio
 
-Desde esta sección es posible modificar la identidad del sitio y controlar qué elementos son visibles para los usuarios no autenticados, garantizando así una presentación más limpia y segura del entorno Moodle.
-
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Nombre2.png)
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Nombre1.png)
 
