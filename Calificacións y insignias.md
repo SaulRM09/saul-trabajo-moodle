@@ -16,3 +16,6 @@ Desde esta sección se crea una nueva insignia definiendo su nombre, descripció
 Una vez configurada y activada, la insignia se puede asignar manualmente a un alumno del curso.
 
 Esta acción permite verificar el sistema de insignias y comprobar que los estudiantes pueden recibir reconocimientos dentro de nuestro moodle.
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/INSIGNIAS1.png)
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Otorgaci%C3%B3n.png)
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Comprovaci%C3%B3n.png)
