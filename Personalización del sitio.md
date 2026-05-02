@@ -24,3 +24,11 @@ Cabecera (header)
 Pie de página (footer)
 
 Página principal (Front page)
+
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Person1.png)
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Person2.png)
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Person3.png)
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Person4.png)
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Person5.png)
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Person6.png)
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Person7.png)
