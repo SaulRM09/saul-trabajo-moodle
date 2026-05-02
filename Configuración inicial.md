@@ -29,7 +29,7 @@ Ajustar este parámetro es fundamental, ya que afecta directamente a las entrega
 
 Para modificar este ajuste, debemos acceder a:
 
-Administración del sitio → Ubicación → Parámetros
+Administración del sitio → Ajustes de ubicación
 
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Establecer%20la%20franja%20horaria.png)
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Establecer%20la%20franja%20horaria2.png)
