@@ -7,6 +7,7 @@ Para crear este usuario, debemos acceder a:
 Administración del sitio → Usuarios → Cuentas → Añadir un usuario
 
 Desde esta sección se pueden definir todos los datos del nuevo usuario, como el nombre, el correo electrónico, la contraseña y el método de autenticación.
+
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/usuarios1.png)
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/usuarios2.png)
 
