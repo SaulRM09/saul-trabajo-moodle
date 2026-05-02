@@ -32,3 +32,15 @@ Página principal (Front page)
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Person5.png)
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Person6.png)
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Person7.png)
+
+# Logotipo
+En este apartado se añade un logotipo personalizado al sitio Moodle para mejorar su identidad visual y hacerlo más reconocible dentro del proyecto.
+
+Para realizar esta configuración, se accede a:
+
+Administración del sitio → Apariencia → Logotipo
+
+Desde esta sección se puede subir la imagen que actuará como logotipo del sitio.
+Una vez cargado, el logotipo pasa a mostrarse en la cabecera del tema activo, integrándose con el diseño general de la plataforma.
+
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Logotipo.png)
