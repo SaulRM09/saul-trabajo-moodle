@@ -8,6 +8,8 @@ Para realizar estos cambios, primero debemos hacer clic en nuestro nombre de per
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Cambio%20de%20correo%203.png)
 
 ---
+# Configuración del sitio
+
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Nombre1.png)
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Nombre2.png)
 
