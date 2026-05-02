@@ -22,3 +22,6 @@ Desde esta sección es posible definir el nombre del curso, el número de temas,
 
 ---
 # Personalización del curso
+
+En este apartado se exploran las opciones de personalización disponibles dentro de los cursos de Moodle.
+Estas acciones permiten adaptar el contenido, la estructura y la presentación del curso para mejorar la experiencia del alumnado.
