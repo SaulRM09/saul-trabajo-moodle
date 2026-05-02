@@ -60,7 +60,7 @@ En este apartado se establece una política de contraseñas segura para todos lo
 
 Para aplicar esta configuración, debemos acceder a:
 
-Administración del sitio → Seguridad → Normativas del sitio
+Administración del sitio → Seguridad → Politicas de seguridad del sitio
 
 Dentro de esta sección se define la política de contraseñas, estableciendo una longitud mínima de 8 caracteres, incluyendo mayúsculas, minúsculas y números, garantizando así un nivel de seguridad adecuado para todos los usuarios.
 
