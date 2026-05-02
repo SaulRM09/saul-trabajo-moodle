@@ -11,3 +11,8 @@ Una vez habilitado este método, se procede a:
 
 1. Matricular al usuario Bob como profesor del curso.
 2. Matricular a los alumnos restantes como estudiantes.
+
+
+---
+
+# Verificació
