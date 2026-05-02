@@ -1,4 +1,5 @@
 # Administración del perfil de usuario
+
 En este apartado se realizan las tareas relacionadas con la administración del perfil del usuario administrador. Se modifica el correo asociado a la cuenta, se actualiza la contraseña por una más segura y se añade una fotografía de perfil para identificar más fácilmente al administrador dentro de la plataforma.
 
 Para realizar estos cambios, primero debemos hacer clic en nuestro nombre de perfil. Después seleccionamos la opción “Editar perfil”. Una vez dentro, se mostrará una interfaz donde podremos modificar todos los datos disponibles del usuario, como el correo electrónico, la contraseña, la imagen de perfil y otros ajustes personales.
@@ -10,8 +11,17 @@ Para realizar estos cambios, primero debemos hacer clic en nuestro nombre de per
 ---
 # Configuración del sitio
 
-![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Nombre1.png)
+En este apartado se realiza la configuración básica del sitio Moodle.
+Se cambia el nombre del sitio (tanto el nombre largo como el corto) y se ajusta la página principal para que no muestre contenido a los usuarios que no han iniciado sesión.
+
+Para realizar estos cambios, debemos acceder a:
+
+Administración del sitio → ajustes de la pàgina principal del sitio
+
+Desde esta sección es posible modificar la identidad del sitio y controlar qué elementos son visibles para los usuarios no autenticados, garantizando así una presentación más limpia y segura del entorno Moodle.
+
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Nombre2.png)
+![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Nombre1.png)
 
 ---
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Establecer%20la%20franja%20horaria.png)
