@@ -22,6 +22,15 @@ Administración del sitio → ajustes de la pàgina principal del sitio
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Nombre1.png)
 
 ---
+# Configuración de franja horaria
+
+En este apartado se configura la franja horaria correcta del sitio Moodle.
+Ajustar este parámetro es fundamental, ya que afecta directamente a las entregas de actividades con fecha y hora límite. Una franja horaria incorrecta puede provocar errores en los plazos de entrega o confusiones entre estudiantes y profesores.
+
+Para modificar este ajuste, debemos acceder a:
+
+Administración del sitio → Ubicación → Parámetros
+
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Establecer%20la%20franja%20horaria.png)
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Establecer%20la%20franja%20horaria2.png)
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Establecer%20la%20franja%20horaria%202.png)
