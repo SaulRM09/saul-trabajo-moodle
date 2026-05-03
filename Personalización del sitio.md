@@ -41,6 +41,6 @@ Para realizar esta configuración, se accede a:
 Administración del sitio → Apariencia → Logotipo
 
 Desde esta sección se puede subir la imagen que actuará como logotipo del sitio.
-Una vez cargado, el logotipo pasa a mostrarse en la cabecera del tema activo, integrándose con el diseño general de la plataforma.
+Una vez cargado, el logotipo pasa a mostrarse en la cabecera del tema activo.
 
 ![moodle](https://github.com/SaulRM09/saul-trabajo-moodle/blob/main/Im%C3%A1genes/Logotipo.png)
